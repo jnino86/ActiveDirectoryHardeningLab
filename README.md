@@ -1,1 +1,1 @@
-# ActiveDirectoryLab
+# Active Directory Hardening Lab
